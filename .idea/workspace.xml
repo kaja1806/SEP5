@@ -4,18 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7f437d-7f59-4c3e-a1af-b9d035ecca2f" name="Changes" comment="">
+    <list default="true" id="bd7f437d-7f59-4c3e-a1af-b9d035ecca2f" name="Changes" comment="Initial commit to master">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Model/AccountModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Model/BalanceModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Model/CategoryModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Model/ExpensesModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Model/IncomeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Model/TransactionModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Model/TransactionTypeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Model/TransferModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Model/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Server/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Server/Conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Server/IDatabaseCalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sep5/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sep5Project/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sep5/HelloController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/sep5/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/sep5/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/sep5/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sep5Project/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Hrs6bYZ1OInwQLWD4lrbcDAE9i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,9 +63,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Weronika/Desktop/VIA/Semester 5/SDJ2/examples from Github/Budget-Analyzer-master",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sep5Project" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,19 +85,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669054364870</updated>
-      <workItem from="1669054366169" duration="1000" />
+      <workItem from="1669054366169" duration="496000" />
+      <workItem from="1669054876788" duration="2216000" />
+      <workItem from="1669108166578" duration="6515000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit to master">
+      <created>1669054460011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669054460011</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/develop" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit to master" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit to master" />
   </component>
 </project>

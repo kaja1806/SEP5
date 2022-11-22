@@ -1,8 +1,9 @@
 module com.example.sep5 {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.sql;
 
 
-    opens com.example.sep5 to javafx.fxml;
-    exports com.example.sep5;
+    opens sep5Project to javafx.fxml;
+    exports sep5Project;
 }
